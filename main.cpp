@@ -4,7 +4,7 @@
 //
 //  Created by Ali Kesserwani on 11/15/20.
 //
-// Execute Mac Terminal:  g++ -o lab21 /Users/alikesserwani/Desktop/game/game/main.cpp
+// Execute Mac Terminal:  g++ -o lab21 main.cpp
 //./lab21
 
 #include <iostream>
