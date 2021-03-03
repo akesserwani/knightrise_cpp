@@ -2,7 +2,7 @@
 //  main.cpp
 //  game
 //
-//  Created by Ali Kesserwani on 11/15/20.
+//  Created by Ali Kesserwani
 //
 // Execute Mac Terminal:  g++ -o lab21 main.cpp
 //./lab21
